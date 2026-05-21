@@ -32,7 +32,13 @@ The app allows users to browse movies, view details, and enjoy a smooth modern U
 ---
 
 ## 📸 Screenshots
-TODO::
+### Home Screen | Detail Screen | Search Result Screen | Detail Screen
+<p align="center">
+  <img src="snapshots/1.png" width="250" hspace="15"/>
+  <img src="snapshots/2.png" width="250" hspace="15"/>
+  <img src="snapshots/3.png" width="250" hspace="15"/>
+  <img src="snapshots/4.png" width="250" vspace="20"/>
+</p>
 
 ---
 
