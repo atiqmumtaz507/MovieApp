@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NeuGelb</string>
+
+    <string name="popular_movies_headline">What\'s Popular</string>
+    <string name="all_movies_headline">Movies</string>
+    <string name="movie_fetch_error">Error: Failed to fetch the Movie.</string>
+    <string name="detail_more_btn">More</string>
+    <string name="detail_less_btn">Less</string>
+    <string name="fab_search">Search Movie</string>
+    <string name="user_score">User Score</string>
+    <string name="not_implemented">Not Implemented yet.</string>
+    <string name="search_cancel_button">Abbrechen</string>
+</resources>
